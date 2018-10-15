@@ -27,8 +27,14 @@ nav {
 }
 
 nav a {
+  text-decoration: none;
+  color: #793284;
+}
+
+nav ol {
   color: #793284;
   text-decoration: none;
+  list-style-type: armenian;
 }
 
 nav a:hover {
